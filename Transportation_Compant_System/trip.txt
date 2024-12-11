@@ -1,0 +1,6 @@
+Alexandria,  Cairo,  450,  One-way,  218.9 km,  33,  450,  bus
+Alexandria,  Cairo,  218.9 km,  round,  2,  33,  450,  bus
+Alexandria ,  Aswan,  845.01 km,  One-way,  4,  15,  850,  minibus
+Alexandria ,  Luxor,  874.6 km,  round,  3,  5,  700,  limosin
+cairo,  mansoura,  125.9 km,  round,  0,  10,  200,  minibus
+mansoura, aswan, 960, round, 4, 20, 1500, bus
