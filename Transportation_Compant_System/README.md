@@ -1,4 +1,4 @@
-YOU CAN SEE ALL PROJECT DETAILS IN PROJECT.WORD
+YOU CAN SEE ALL PROJECT DETAILS IN PROJECT.docx
 
 ![image](https://github.com/user-attachments/assets/94aaacc8-4495-4941-beee-54a6d66a842b)
 
