@@ -13,7 +13,7 @@ This **team project** showcases the use of **Data Structures & Algorithms** alon
   - **Partition Sort**
 - **Interactive GUI** built with **Java Swing** for an intuitive user experience.
 
-## 🛠 Technologies Used
+## Used
 - **Java** (Core + OOP)
 - **Java Swing** (GUI)
 - **Binary Search Tree**
@@ -22,11 +22,5 @@ This **team project** showcases the use of **Data Structures & Algorithms** alon
 - **Quick Sort**
 - **Partition Sort**
 
-## 📚 OOP Concepts Applied
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-
-## 👥 Team Contribution
+## Team Contribution
 This project was developed collaboratively, with each team member contributing to different system modules, algorithms, and interface components.
