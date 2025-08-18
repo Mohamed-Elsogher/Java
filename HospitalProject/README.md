@@ -10,7 +10,6 @@ This **team project** showcases the use of **Data Structures & Algorithms** alon
 - **Optimized Sorting**:
   - **Merge Sort**
   - **Quick Sort**
-  - **Partition Sort**
 - **Interactive GUI** built with **Java Swing** for an intuitive user experience.
 
 ## Used
