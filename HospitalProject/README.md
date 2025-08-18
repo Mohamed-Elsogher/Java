@@ -20,7 +20,7 @@ This **team project** showcases the use of **Data Structures & Algorithms** alon
 - **Priority Queue**
 - **Merge Sort**
 - **Quick Sort**
-- **Partition Sort**
+
 
 ## Team Contribution
 This project was developed collaboratively, with each team member contributing to different system modules, algorithms, and interface components.
